@@ -1,0 +1,7 @@
+{
+    "id": "ubuntu",
+    "groups": "sysadmin",
+    "uid": 2010,
+    "shell": "\/bin\/bash",
+    "comment": "Ubuntu User"
+}
